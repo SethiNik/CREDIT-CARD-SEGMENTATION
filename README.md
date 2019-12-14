@@ -1,10 +1,12 @@
 # CREDIT-CARD-SEGMENTATION
-# DATA AVAILABLE:
+
+## DATA AVAILABLE:
 CC GENERAL.csv
-# BUSINESS CONTEXT:
+
+## BUSINESS CONTEXT:
 This case requires trainees to develop a customer segmentation to define marketing strategy. The sample dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. 
 
-# Advanced data preparation: 
+## Advanced data preparation: 
 Build an ‘enriched’ customer profile by deriving “intelligent” KPIs such as:
 
  Monthly average purchase and cash advance amount
@@ -30,9 +32,10 @@ Build an ‘enriched’ customer profile by deriving “intelligent” KPIs such
 
 Provide the strategic insights and implementation of strategies for given set of cluster
 characteristics
-# DATA DICTIONARY:
 
-CUST_ID: Credit card holder ID
+## DATA DICTIONARY:
+
+<strong> CUST_ID:  </strong>Credit card holder ID
 
 BALANCE: Monthly average balance (based on daily balance averages)
 
